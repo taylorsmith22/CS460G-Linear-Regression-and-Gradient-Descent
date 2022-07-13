@@ -28,3 +28,17 @@ Output from synthetic dataset 1:
 Output from wine dataset:
 
 ![Screenshot (8) 115](https://user-images.githubusercontent.com/84202362/178789665-4b586453-c692-44da-9895-acd1f85cc055.png)
+
+
+To run with synthetic datasets:
+
+Download files: part2.py, synthetic-1.csv, synthetic-2.csv
+
+Then run the part2.py program with Anaconda or other downloadable libraries and packages.
+
+
+To run with the wine dataset:
+
+Download files: part1.py, winequality-red.csv
+
+Then run the part1.py program with Anaconda or other downloadable libraries and packages.
